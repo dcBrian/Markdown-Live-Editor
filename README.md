@@ -3,7 +3,7 @@
   <h3 align="center">Markdown live editor</h3>
 
   <p align="center">
-      A small React project to help preview Markdown code
+      A small React project to preview Markdown code
   </p>
 </p>
 
