@@ -1,12 +1,13 @@
 <br />
 <p align="center">
-  <h3 align="center">Markdown live editor</h3>
+  <h3 align="center">Markdown</h3>
 
   <p align="center">
-      A small React project to preview Markdown code
-  </p>
-    <br />
+      A small React project to live preview Markdown code
+      <br />
     <a href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</a>
+  </p>
+    
 </p>
 
 <!-- ABOUT THE PROJECT -->
