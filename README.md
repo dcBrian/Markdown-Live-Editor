@@ -5,7 +5,14 @@
   <p align="center">
       A small React project to preview Markdown code
   </p>
+    <br />
+    <a href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</a>
 </p>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Markdown live editor](/images/markdown.png?raw=true)
 
 ### Built With
 
