@@ -5,7 +5,7 @@
   <p align="center">
       A small React project to live preview Markdown code
       <br />
-    <a href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</a>
+    <button href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</button>
   </p>
     
 </p>
