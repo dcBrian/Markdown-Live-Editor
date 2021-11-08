@@ -1,14 +1,14 @@
-<br />
-<p align="center">
-  <h3 align="center">Markdown</h3>
+## Markdown Live Editor
 
-  <p align="center">
-      A small React project to live preview Markdown code
-      <br />
-    <button href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</button>
+This is a simple project I made to increase my knownledge on Reactjs. If you feel it can help you with something, feel free to use partly or totally this code.
+        <br />
+        
+<p align="center">
+    <br />
+      <a href="https://jolly-neumann-f8dde3.netlify.app/">View Demo</a>
+    <br />
   </p>
-    
-</p>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -45,16 +45,8 @@
    yarn start
    ```
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 ## Contact
 
 ivucady@gmail.com
-
-Project Link: [https://github.com/ivucady/markdown](https://github.com/ivucady/markdown)
 
