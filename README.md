@@ -34,7 +34,7 @@ This is a simple project I made to increase my knownledge on Reactjs. If you fee
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dcBrian/markdown.git
+   git clone https://github.com/dcBrian/Markdown-Live-Editor.git
    ```
 2. Install all depedencies
    ```sh
