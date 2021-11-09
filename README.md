@@ -34,7 +34,7 @@ This is a simple project I made to increase my knownledge on Reactjs. If you fee
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ivucady/markdown.git
+   git clone https://github.com/dcBrian/markdown.git
    ```
 2. Install all depedencies
    ```sh
@@ -48,5 +48,5 @@ This is a simple project I made to increase my knownledge on Reactjs. If you fee
 <!-- CONTACT -->
 ## Contact
 
-ivucady@gmail.com
+dacruzbrian1@gmail.com
 
