@@ -1,6 +1,6 @@
 ## Markdown Live Editor
 
-This is a simple project I made to increase my knownledge on Reactjs. If you feel it can help you with something, feel free to use partly or totally this code.
+This is a very simple project I made about markdown.
         <br />
         
 <p align="center">
